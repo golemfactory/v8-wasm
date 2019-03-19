@@ -98,10 +98,9 @@ cat output/out.txt
 
 The actual program can be found in [examples/test](examples/test), both as source and compiled into JS+WASM.
 
-## Program examples
+## Wasm store
 
-The [examples/](examples) directory contains examples of various real-world programs that were
-compiled to WebAssembly and tested on this sandbox.
+More examples of precompiled Wasm binaries can be found in [golemfactory/wasm-store](https://github.com/golemfactory/wasm-store) repo.
 
 ## Possible TODOs
 
