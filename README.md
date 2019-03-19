@@ -1,5 +1,4 @@
-WebAssembly Sandbox
-===================
+# v8-based WebAssembly Sandbox
 
 ## Overview
 
